@@ -57,3 +57,27 @@ i decided to have a change of plan for this project, because i can't spend as mu
 SL2.1A controller remains the same, but i've decided to use 4 USB Type-A receptacles instead, however the schematic is pretty much the same.
 
 ![](./images/kicad_schem.png)
+
+## Entry 4 - 2025/07/17
+
+## Time spent: 2 hours
+
+very tired, but i managed to get some wiring done, yay.....
+
+![](./images/kicad_pcb.png)
+
+i mean, i don't know how to make that look a better shape. usb type-c receptacle at the front (that's where the tail comes from) and usb type-a on the sides.
+
+i've decided to space 8.0mm between each receptacle even though the USB specification recommends 12.0mm, because if i did that then my pcb would be longer than 100.0mm (expensive!)
+
+let's add some silkscreen art, and what better way than to add all the scrappy cat pfps that Hack Clubbers have?!
+
+![](./images/ss_front.png)
+
+![](./images/ss_back.png)
+
+(3dmodels hidden)
+
+shout out if you're on here btw :3 (i couldn't find anymore T-T)
+
+yeah anyways, DRC no errors so all is good! (i just hope that JLCPCB is able to PCBA this as some of the footprints im using are wacky :sob:)
