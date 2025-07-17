@@ -43,3 +43,17 @@ i'm not doing anything fancy with protocols (thunderbolt, displayport, hdmi, etc
 ![](./images/schemprogress.png)
 
 yeah, it's messy but whatever, no DRC errors.
+
+## Entry 3 - 2025/07/16
+
+### Time spent: 3 hours
+
+okay woah, it's been a while.
+
+Undercity wrapped up, and it was a blast. as of right now i'm in germany, waiting for my transiting flight to Shanghai for yet another hackathon.
+
+i decided to have a change of plan for this project, because i can't spend as much time, so i'm switching to KiCAD, and making some changes to some of the specifications.
+
+SL2.1A controller remains the same, but i've decided to use 4 USB Type-A receptacles instead, however the schematic is pretty much the same.
+
+![](./images/kicad_schem.png)
