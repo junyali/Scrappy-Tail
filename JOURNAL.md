@@ -81,3 +81,29 @@ let's add some silkscreen art, and what better way than to add all the scrappy c
 shout out if you're on here btw :3 (i couldn't find anymore T-T)
 
 yeah anyways, DRC no errors so all is good! (i just hope that JLCPCB is able to PCBA this as some of the footprints im using are wacky :sob:)
+
+# Entry 5 - 2025/07/18
+
+## Time spent: 4 hours
+
+CAD time!
+
+onshape as usual, and obviously, if i'm going for a scrappy cat design, then i'm totally gonna have scrappy cat case! i'm really bad at CAD though, so i though i made the rectangular part first, then gradually built the cat shape on top, it would come out fine.
+
+![](./images/cad_progress_1.png)
+
+it's a.. box. yay?
+
+okey, so i drew some lines here and there, and made some cutouts for my usb receptacles, and now it's starting to take shape!
+
+![](./images/cad_progress_2.png)
+
+and now create the lid...
+
+![](./images/cad_progress_3.png)
+
+combine together for the final case!
+
+![](./images/cad_progress_4.png)
+
+anyways uhh. i think that's BASICALLY it!
