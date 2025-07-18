@@ -6,7 +6,8 @@ created_at: "2025-07-04"
 ---
 
 ----
-Total Time Spent: *TBA*
+
+### Total Time Spent: ~15ish hours
 
 # Scrappy Tail
 
