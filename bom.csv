@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #, Price, LCSC Link
+"C1, C2, C3, C4, C5, C6, C7",1206,7,100nF,CL31A107MQHNNNE,0.34,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL31A107MQHNNNE_C15008.html
+D1,1206,1,D,C466498,0.47,https://lcsc.com/product-detail/Schottky-Diodes_High-Diode-SS14_C466498.html
+J1,USB_C_Receptacle_JAE_DX07S016JA1R1500_3D,1,USB_C_Receptacle_USB2.0_16P,C3197885,0.97,https://lcsc.com/product-detail/USB-Connectors_JAE-DX07S016JA1R1500_C3197885.html
+"J2, J3, J4, J5",USB_A_Molex_67643_Horizontal,4,USB_A,C2765194,0.88,https://lcsc.com/product-detail/USB-Connectors_MOLEX-67643-3911_C2765194.html
+"R1, R2",0603,2,R,C105580,0.12,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0603FR-075K1L_C105580.html
+U1,SO16,1,SL2.1A,C192893,1.31,https://lcsc.com/product-detail/USB-HUB-Controllers_CoreChips-SL2-1A_C192893.html
