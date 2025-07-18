@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SL2.1A")(type "KiCad")(uri "${KIPRJMOD}/libraries/SL2.1A")(options "")(descr ""))
+  (lib (name "Connector")(type "KiCad")(uri "${KIPRJMOD}/Connector.pretty")(options "")(descr ""))
+)
